@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "tqd-coding-workflow",
+  "version": "1.0.0",
+  "description": "Quy trình coding 7 bước tiếng Việt cho người mới (level 0): brainstorm -> plan -> duyệt -> code -> test -> review -> ship. Chạy được trên OMP, Claude Code và Codex.",
+  "author": {
+    "name": "tqd"
+  },
+  "license": "MIT",
+  "keywords": [
+    "tqd",
+    "workflow",
+    "tieng-viet",
+    "beginner",
+    "coding"
+  ]
+}
